@@ -17,5 +17,13 @@ namespace Interface_OCR
             InitializeComponent();
         }
 
+        private void btn_open_img_Click(object sender, EventArgs e)
+        {
+            DialogResult result = openfile.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                pictureBox1.Image = new Bitmap(openfile.FileName);
+            }
+        }
     }
 }

@@ -1,0 +1,15 @@
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.exe
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.deps.json
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.runtimeconfig.json
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.runtimeconfig.dev.json
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.dll
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\bin\Debug\netcoreapp3.1\Interface_OCR.pdb
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.csprojAssemblyReference.cache
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.Form1.resources
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.csproj.GenerateResource.cache
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.AssemblyInfoInputs.cache
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.AssemblyInfo.cs
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.csproj.CoreCompileInputs.cache
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.dll
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.pdb
+D:\programmation\cours\IPSI2\Projet c++\git\interfeca_local\Interface_OCR\obj\Debug\netcoreapp3.1\Interface_OCR.genruntimeconfig.cache
