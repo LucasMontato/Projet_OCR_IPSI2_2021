@@ -90,7 +90,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;LIBIMAGE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Codes C++\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\Codes C++\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -146,18 +146,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Codes C++\src\Classe_Main_OCR_libIHM.cpp" />
     <ClCompile Include="..\..\Codes C++\src\ImageClasse.cpp" />
     <ClCompile Include="..\..\Codes C++\src\ImageCouleur.cpp" />
     <ClCompile Include="..\..\Codes C++\src\ImageDouble.cpp" />
     <ClCompile Include="..\..\Codes C++\src\ImageNdg.cpp" />
-    <ClCompile Include="..\..\Codes C++\src\libIHM.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Codes C++\include\ImageClasse.h" />
     <ClInclude Include="..\..\Codes C++\include\ImageCouleur.h" />
     <ClInclude Include="..\..\Codes C++\include\ImageDouble.h" />
     <ClInclude Include="..\..\Codes C++\include\ImageNdg.h" />
-    <ClInclude Include="..\..\Codes C++\include\libIHM.h" />
+    <ClInclude Include="..\..\Codes C++\include\Main_OCR_libIHM.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
