@@ -1,0 +1,30 @@
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe.config
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.pdb
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csprojResolveAssemblyReference.cache
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Form1.resources
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Properties.Resources.resources
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csproj.GenerateResource.Cache
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.exe
+C:\Hubert_KONIK\Enseignement\TSE FA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.pdb
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe.config
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.exe
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.pdb
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.pdb
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csprojResolveAssemblyReference.cache
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Form1.resources
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Properties.Resources.resources
+C:\Hubert_KONIK\Enseignement\TSE FISA\Projet C++\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csproj.GenerateResource.Cache
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe.config
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.exe
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.pdb
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.exe
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\bin\Debug\seuilAuto.pdb
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csprojResolveAssemblyReference.cache
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Form1.resources
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.Properties.Resources.resources
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\seuilAuto\obj\Debug\seuilAuto.csproj.GenerateResource.Cache
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Projet OCR 2a\Image Projet cpp\Devs\seuilAuto\bin\Debug\seuilAuto.exe.config
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Projet OCR 2a\Image Projet cpp\Devs\seuilAuto\obj\Debug\seuilAuto.exe
+C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Projet OCR 2a\Image Projet cpp\Devs\seuilAuto\obj\Debug\seuilAuto.pdb

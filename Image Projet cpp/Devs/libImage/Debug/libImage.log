@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  libIHM.cpp
+  ImageNdg.cpp
+  ImageDouble.cpp
+  ImageCouleur.cpp
+  ImageClasse.cpp
+  Génération de code en cours...
+     Création de la bibliothèque ..\seuilAuto\bin\Debug\libImage.lib et de l'objet ..\seuilAuto\bin\Debug\libImage.exp
+  libImage.vcxproj -> C:\Users\ghisl\Desktop\IPSI2\PROJET C++\Exemple Seuillage\Exemple Wrapper Image Seuillage Auto\Devs\libImage\..\seuilAuto\bin\Debug\libImage.dll
+  libImage.vcxproj -> ..\seuilAuto\bin\Debug\libImage.pdb (Full PDB)
